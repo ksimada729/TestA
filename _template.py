@@ -2,3 +2,6 @@
 # coding: utf-8
 
 # テンプレート
+
+print('hello world.')
+
