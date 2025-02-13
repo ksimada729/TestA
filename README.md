@@ -16,7 +16,7 @@
 
 **aaa**
 
-[ウィキ](https://ja.wikipedia.org/main/)
+[ウィキ](https://ja.wikipedia.org/wiki/)
 
 ```python
 print('hello world.')
